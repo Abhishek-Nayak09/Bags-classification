@@ -1,9 +1,4 @@
-pandas
-matplotlib
-seaborn
-flask
-numpy
-tensorflow
-opencv
-scikit-learn
-keras
+streamlit==0.89.0
+opencv-python-headless==4.5.3.56
+numpy==1.19.5
+tensorflow==2.5.0
